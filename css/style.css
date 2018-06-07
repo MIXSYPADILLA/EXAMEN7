@@ -28,6 +28,7 @@ footer .blanco{
 	margin-top: 20px;
 	margin-left: 40px;
 	margin-right: 40px;
+	
 }
 footer .gris {
 	background-color: #21252917;
@@ -36,10 +37,16 @@ footer .gris {
 	text-align: center;
 	margin-left: 40px;
 	margin-right: 40px;
+	
 }
 
 footer .logo2{
 	width: 40px;
 }
 
-
+.card-title{
+	color: black;
+}
+ .card-text{
+ 	color: black;
+ }
